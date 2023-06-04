@@ -33,7 +33,9 @@ If you're interested in collaborating or have any questions, feel free to reach 
     
 ### Socials
 
-<p align="left" style="back"> <a href="https://www.linkedin.com/in/melissa-mazir-172574223/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/mazir_melissa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left" style="back"> <a href="https://www.linkedin.com/in/melissa-mazir-172574223/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+    <a href="https://twitter.com/mazir_melissa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://discord.com/channels/@me" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" width="32" height="32" /></a></p>
     <br/>
 
 ### My Github Stats

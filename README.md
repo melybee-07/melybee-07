@@ -5,12 +5,14 @@
     <hr/>
 
 👋 Hello, I'm Melissa!
+
 I'm a passionate creative coder and web developer, currently pursuing my education at Microverse. With a solid foundation in HTML, CSS, and the basics of JavaScript, I'm now expanding my skills by diving into React.
 
 📫 Let's Connect:
+
 If you're interested in collaborating or have any questions, feel free to reach out to me. You can find me on <a href="https://www.linkedin.com/in/melissa-mazir-172574223/">LinkedIn</a> or reach me via email melissamazir07@gmail.com.
 
-Thank you for stopping by, and I hope you enjoy exploring my projects!
+❤️ Thank you for stopping by, and I hope you enjoy exploring my projects!
 
 <hr/>
 
@@ -23,6 +25,9 @@ Thank you for stopping by, and I hope you enjoy exploring my projects!
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
     <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="36" height="36" alt="MATLAB" /></a>
+     <a href="https://www.netacad.com/fr/courses/packet-tracer" target="_blank" rel="noreferrer"><img src="https://github.com/melybee-07/melybee-07/assets/82408365/a2418896-ad62-4e43-a4ed-8b2f9a9c8294" width="36" height="36" alt="cisco packet tracer" /></a>
+    <a href="https://www.cisco.com/c/fr_dz/index.html" target="_blank" rel="noreferrer"><img src="https://github.com/melybee-07/melybee-07/assets/82408365/f0205943-e9e7-4e0c-bcf2-e66f2cc75f93" width="36" height="36" alt="cisco" /></a>
+     <a href="https://www.gns3.com/" target="_blank" rel="noreferrer"><img src="https://github.com/melybee-07/melybee-07/assets/82408365/cee84853-f7fe-4047-b836-a4f7f69a90e8" width="36" height="36" alt="gns3" /></a>
     
     
     

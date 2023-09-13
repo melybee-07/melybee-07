@@ -6,7 +6,7 @@
 
 👋 Hello, I'm Melissa!
 
-I'm a passionate creative coder and web developer, currently pursuing my education at Microverse. With a solid foundation in HTML, CSS, and the basics of JavaScript, I'm now expanding my skills by diving into React.
+I'm a passionate creative coder and web developer,with a solid foundation in HTML, CSS, and the basics of JavaScript, I'm now expanding my skills by diving into React.
 
 📫 Let's Connect:
 

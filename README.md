@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/=melybee-07">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&duration=2000&pause=70&multiline=true&width=900&height=120&lines=Melissa+Mazir;Computer+Network+and+Telecommunication+Engineer;Front+End+developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&duration=2000&pause=70&multiline=true&width=900&height=120&lines=Melissa+Mazir;Computer+Network+and+Telecommunication+Engineer;Front+End+Developer" alt="Typing SVG" />
 </a>
     <hr/>
 
